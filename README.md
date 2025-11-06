@@ -43,7 +43,8 @@ It helps users and businesses make data-driven decisions by analyzing patterns i
 ---
 
 ## 🖼️ Dashboard Preview
-![Zomato Dashboard Preview](images/dashboard_preview.png)
+![Zomato Dashboard Preview]<img width="1573" height="786" alt="DASHBOARD" src="https://github.com/user-attachments/assets/fb72d52d-e90f-4c8e-9dd8-2b8bbe5d9120" />
+
 
 ---
 
