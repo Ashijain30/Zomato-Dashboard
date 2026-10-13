@@ -124,9 +124,7 @@ An interactive Power BI dashboard that analyzes 10,000 food-delivery orders: cus
 - Discounted orders have a slightly lower average order amount (1,043.3 vs 1,063.4) and a slightly higher rating (3.03 vs 2.97).
 - Order volume grew from 4,714 orders in 2023 to 5,083 in 2024 (2025 covers only 16 days: 203 orders).
 
-## Dashboard
 
-[ADD 2 to 3 screenshots, for example: `![Overview](docs/overview.png)`]
 
 **Filters:** cuisine, delivery partner, payment method, order date.
 
